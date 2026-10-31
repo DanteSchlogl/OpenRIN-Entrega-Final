@@ -1,2 +1,0 @@
-usuario: sysadmin
-contraseña de prueba: Ort55bc6c7000!1
