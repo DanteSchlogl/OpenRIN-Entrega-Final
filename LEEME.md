@@ -16,6 +16,7 @@ Prácticas Profesionalizantes III · Docente: Weingand, Gastón Matías · Unive
 | `6 - Manual de Instalacion` | Manual de instalación (PDF). |
 | `7 - Software (Instalador)` | `OpenRIN-Setup.exe`: instala la aplicación, SQL Server Express si falta, las bases y los datos de demostración. |
 | `8 - Codigo Fuente` | Solución .NET 8 (`PlataformaACO.sln`), herramientas y pruebas automáticas. |
+| `Prueba SQL` | Consultas para probar a mano la protección de integridad (alterar y deshacer un dato) y los respaldos. Empiece por `LEEME.txt`. |
 
 ## Para probarlo
 

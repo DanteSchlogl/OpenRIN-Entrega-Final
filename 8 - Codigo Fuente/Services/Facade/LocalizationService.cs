@@ -8,8 +8,8 @@ namespace Services.Facade
     /// <summary>
     /// Fachada pública de internacionalización (T05): punto de entrada único para obtener
     /// textos traducidos, cambiar el idioma en caliente (notificando a los observadores
-    /// suscriptos) y administrar idiomas y leyendas desde el sistema. El contenido vive en la
-    /// base de datos: no se utilizan hojas de recursos estáticos en tiempo de ejecución.
+    /// suscriptos) y administrar idiomas y leyendas desde el sistema. Los textos de es, en y zh-CN
+    /// están en archivos .resx (ensamblados satélite) y la base de datos agrega idiomas y corrige leyendas.
     /// </summary>
     public static class LocalizationService
     {
